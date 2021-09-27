@@ -1,3 +1,8 @@
 # Image-Filters
 Project based in C Programming Language which provides user the option to apply Filters to images. Most image editing programs support a “sepia” filter, which gives images an old-timey feel by making the whole image look a bit reddish-brown. Other options like mirror -  (is a filter where the resulting image is what you would get by placing the original image in front of a mirror), GreyScale( where we take an image and want to convert it to black-and-white.) and finally a common Blurr Program 
-![alt text](https://raw.githubusercontent.com/thisisadityapatel/Image-Filters/main/Image-Filter/out.bmp)
+
+# Original Image
+![Original Image](https://raw.githubusercontent.com/thisisadityapatel/Image-Filters/main/Image-Filter/yard.bmp)
+
+# After Applying the Grey Scale filter
+![After Applying Filters](https://raw.githubusercontent.com/thisisadityapatel/Image-Filters/main/Image-Filter/out.bmp)
