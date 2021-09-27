@@ -4,5 +4,5 @@ Project based in C Programming Language which provides user the option to apply 
 # Original Image
 ![Original Image](https://raw.githubusercontent.com/thisisadityapatel/Image-Filters/main/Image-Filter/yard.bmp)
 
-# After Applying the Grey Scale filter
+# After Applying the GreyScale filter
 ![After Applying Filters](https://raw.githubusercontent.com/thisisadityapatel/Image-Filters/main/Image-Filter/out.bmp)
